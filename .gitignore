@@ -2,6 +2,7 @@
 .DS_Store
 Thumbs.db
 
+/venv/
 # Configuração do ambiente virtual (não versionar)
 venv/
 env/
@@ -10,6 +11,7 @@ env/
 *.pyd
 __pycache__/
 
+.gitignore
 # Configurações de logs
 *.log
 logs/
